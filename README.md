@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 > Please record screen to a GIF file and attach link here
-![alt text](https://github.com/skyblue1195s/movies-project/blob/master/Movie.gif?raw=true)
+![alt text](https://github.com/skyblue1195s/movies-project/blob/master/movies.gif?raw=true)
 
 ## License
 
